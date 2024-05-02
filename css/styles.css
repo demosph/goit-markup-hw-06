@@ -214,7 +214,7 @@ input {
 /* Main page*/
 
 .main-hero-section {
-  width: 100vw;
+  max-width: 1440px;
   margin: 0 auto;
   padding: 112px 0;
   background: var(--navy-blue);
